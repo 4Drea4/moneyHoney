@@ -24,7 +24,20 @@ const QUOTES = [
   "Soft life, smart money.",
   "Discipline is glamorous.",
   "Luxury loves a plan.",
-  "Little deposits, big life."
+  "Little deposits, big life.",
+  "Wealth is a quiet flex",
+  "Elegance is living within your means",
+  "Honor God with your finances boo, build your riches in heaven",
+  "Budgeting is self-care",
+  "The soft life is a secured one",
+  "Intentional money, intentional living",
+  "Tomorrows freedom is funded today",
+  "Saying no now means yes later",
+  "Affluence is built, not bought."
+
+
+
+  
 ];
 const quoteEl = $("#quote");
 if (quoteEl){
